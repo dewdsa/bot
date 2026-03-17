@@ -12,7 +12,7 @@ from datetime import datetime
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
-TOKEN = "8544085278:AAG7ooNqUGkCRc0Z-6aefiwewI4y43F1IuE"
+TOKEN = "8544085278:AAHKcE1vAeBtCjnJlStETD_wFWBRVm_fprw"
 ALLOWED_USERS = {1914849129}
 
 processes = {}
