@@ -20,7 +20,7 @@ from telegram.ext import (
 from telegram.error import TelegramError
 
 # ==================== SOZLAMALAR ====================
-BOT_TOKEN = "8370425802:AAEfi3UD3tj7RXKJI5yK5QkEv6e8_9BxvCw"
+BOT_TOKEN = "8544085278:AAHKcE1vAeBtCjnJlStETD_wFWBRVm_fprw"
 SUPER_ADMIN_ID = 1914849129
 STATS_FILE = "clean_bot_stats.json"
 # ====================================================
